@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Wisnu G. Saputra
 
-### :mobile_phone_off: Mobile Developer (Flutter) / :sunflower: UI/UX Enthusiast (Figma)
+### :mobile_phone_off: Software Engineer (Flutter)
 
 - 🔭 I’m currently working on @kodingworks as Software Engineer.
 - 🌱 I’m currently learning and use Flutter, a framework for develops multiplatform app.
