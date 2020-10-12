@@ -11,4 +11,6 @@ I have a blog about the technology I use, and what I learned at [wisnuwiry](http
 
 Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra/) or [Twitter](https://twitter.com/wisnuwiry).
 
-**Regard, Wisnu**
+## Github Stats
+
+[![Wisnu's Github Stats](https://github-readme-stats.vercel.app/api?username=wisnuwiry&count_private=true&theme=default&show_icons=true)](https://github.com/wisnuiwry)
