@@ -7,7 +7,7 @@
 - :new_moon: Dark Mode Lovers
 
 
-I have a blog about the technology I use, and what I learned at [wisnuwiry](http://wisnuwiry.my.id/), when I no longer work I write a blog, or learn new things about programming.
+I have a blog about the technology I use, and what I learned at [wisnuwiry](https://wisnuwiry.space/), when I no longer work I write a blog, or learn new things about programming.
 
 Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra/) or [Twitter](https://twitter.com/wisnuwiry).
 
