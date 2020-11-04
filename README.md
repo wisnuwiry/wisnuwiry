@@ -14,3 +14,4 @@ Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra
 ## Github Stats
 
 [![Wisnu's Github Stats](https://github-readme-stats.vercel.app/api?username=wisnuwiry&count_private=true&theme=default&show_icons=true)](https://github.com/wisnuwiry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuwiry&layout=compact)](https://github.com/wisnuwiry)
