@@ -2,7 +2,7 @@
 
 ### :mobile_phone_off: Software Engineer (Flutter)
 
-- 🔭 I’m currently working on @kodingworks as Software Engineer.
+- 🔭 I’m currently working on @zero-one-group as Product Engineer.
 - 🌱 I’m currently learning and use Flutter, a framework for develops multiplatform app.
 - :new_moon: Dark Mode Lovers
 
