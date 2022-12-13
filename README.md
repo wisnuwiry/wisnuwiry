@@ -17,4 +17,13 @@ Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuwiry&layout=compact)](https://github.com/wisnuwiry)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 11 December 2022 - To: 12 December 2022
+
+Total Time: 10 mins
+
+Lua   10 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
