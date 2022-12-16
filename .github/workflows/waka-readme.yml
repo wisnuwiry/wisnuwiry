@@ -17,6 +17,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "wisnuwiry"
+          COMMIT_EMAIL: "wisnuwiry@gmail.com"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
@@ -28,3 +30,4 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_UPDATED_DATE: "True"
