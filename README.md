@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Wisnu G. Saputra
 
-### :mobile_phone_off: Software Engineer (Flutter)
+### :mobile_phone_off: Software Engineer (Mobile)
 
 - 🔭 I’m currently working on @zero-one-group as Product Engineer.
 - 🌱 I’m currently learning and use Flutter, a framework for develops multiplatform app.
