@@ -13,7 +13,7 @@ Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wisnuwiry&theme=dark&hide_border=true)
 
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift,js,css,neovim,git,linux&perline=5)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift,go,js,css,neovim,git,linux&perline=5)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2038%20mins-blue)
