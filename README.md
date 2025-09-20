@@ -16,8 +16,6 @@ Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra
 ![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift,go,js,css,neovim,git,linux&perline=5)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C130%20hrs%2055%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Dart** 
@@ -33,5 +31,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 22:18:18 UTC
+ Last Updated on 20/09/2025 22:16:55 UTC
 <!--END_SECTION:waka-->
