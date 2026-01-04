@@ -16,7 +16,45 @@ Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra
 ![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift,go,js,css,neovim,git,linux&perline=5)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C266%20hrs%2043%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.80%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                470 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+🌆 Daytime                386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+🌃 Evening                531 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+🌙 Night                  1119 commits        ███████████░░░░░░░░░░░░░░   44.65 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Wednesday                349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Thursday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Friday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Saturday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Dart** 
 
@@ -31,5 +69,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 22:20:44 UTC
+ Last Updated on 04/01/2026 22:21:15 UTC
 <!--END_SECTION:waka-->
