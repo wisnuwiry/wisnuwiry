@@ -2,14 +2,10 @@
 
 ### :mobile_phone_off: Product Engineer (Mobile)
 
-- 🔭 I’m currently working on @zero-one-group as Product Engineer.
-- 🌱 I’m currently learning and use Flutter, a framework for develops multiplatform app.
-- 🌑 Dark Mode Lovers
-- 😄 Pronouns: he/him/his
+Software Engineer who enjoys building things that are fast, clean, and actually useful.
+Currently crafting web & mobile experiences with modern tech.
 
-I have a blog about the technology I use, and what I learned at [wisnuwiry](https://wisnuwiry.space/), when I no longer work I write a blog, or learn new things about programming.
-
-Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra/) or [Twitter](https://twitter.com/wisnuwiry).
+Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra/) or [Twitter](https://twitter.com/wsme_dev).
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wisnuwiry&theme=dark&hide_border=true)
 
