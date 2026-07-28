@@ -12,30 +12,26 @@ Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra
 ![My Skills](https://skillicons.dev/icons?i=react,dart,flutter,kotlin,swift,go,js,ts,neovim,git&perline=5)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C222%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.23%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                586 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-🌆 Daytime                646 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+🌞 Morning                587 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+🌆 Daytime                646 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 🌃 Evening                903 commits         ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌙 Night                  1311 commits        ██████████░░░░░░░░░░░░░░░   38.04 % 
+🌙 Night                  1311 commits        ██████████░░░░░░░░░░░░░░░   38.03 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Tuesday                  508 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Wednesday                501 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Monday                   513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  509 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Wednesday                501 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
 Thursday                 394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 Friday                   434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Saturday                 493 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Sunday                   603 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Saturday                 493 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Sunday                   603 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 ```
 
 
@@ -73,5 +69,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 23:02:48 UTC
+ Last Updated on 28/07/2026 22:58:48 UTC
 <!--END_SECTION:waka-->
