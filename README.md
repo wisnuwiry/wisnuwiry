@@ -12,7 +12,53 @@ Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra
 ![My Skills](https://skillicons.dev/icons?i=react,dart,flutter,kotlin,swift,go,js,ts,neovim,git&perline=5)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C222%20hrs%2036%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.32%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                592 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+🌆 Daytime                647 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+🌃 Evening                920 commits         ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+🌙 Night                  1316 commits        █████████░░░░░░░░░░░░░░░░   37.87 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   519 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Tuesday                  510 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Wednesday                507 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Friday                   438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Saturday                 496 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Sunday                   604 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in Dart** 
 
@@ -27,5 +73,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 01:31:58 UTC
+ Last Updated on 07/08/2026 22:35:19 UTC
 <!--END_SECTION:waka-->
