@@ -16,26 +16,26 @@ Best way to reach me is via [Linkedin](https://www.linkedin.com/in/wisnu-saputra
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.25%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1368 commits        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-🌆 Daytime                1344 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-🌃 Evening                2245 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
-🌙 Night                  1516 commits        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+🌞 Morning                1726 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+🌆 Daytime                1720 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+🌃 Evening                2792 commits        █████████░░░░░░░░░░░░░░░░   35.74 % 
+🌙 Night                  1573 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   929 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Tuesday                  1423 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Wednesday                1168 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Thursday                 855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   586 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Saturday                 815 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Sunday                   697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Monday                   1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Tuesday                  1713 commits        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Wednesday                1322 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Thursday                 1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Friday                   639 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Saturday                 1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Sunday                   740 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 ```
 
 
@@ -45,19 +45,38 @@ Sunday                   697 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs               ████████████████████████░   95.45 % 
+Go                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity CLI          2 hrs 38 mins       █████████████████████░░░░   84.01 % 
+Grok Build               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+OMP                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 9 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 21,810,649 Input Tokens, 84,231 Output Tokens
+
+💵 $44.13 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 36 AI Prompts
+
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 564 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -73,5 +92,5 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 23:57:32 UTC
+ Last Updated on 15/09/2026 00:21:22 UTC
 <!--END_SECTION:waka-->
